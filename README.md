@@ -1,6 +1,6 @@
 # Training Center Brand Guide
 
-> Nosso guia de estilos
+> Nosso guia de marca
 
 <ul>
   <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
