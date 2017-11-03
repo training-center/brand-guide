@@ -1,41 +1,27 @@
+<p align="center">
+  <img src="./assets/jpg/logo-training-center-blue-256.jpg" alt="Training Center">
+</p>
+
 # Training Center Brand Guide
 
-> Nosso guia de marca
-
-<ul>
-  <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
-  <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
-  <li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
-  <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
-  <li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
-  <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
-</ul>
-
-Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+> Use nosso logo do jeito certo.
 
 ## Logo
-![Logo Training Center - JPG - 192x192](./src/jpg/logo-training-center-256x256.jpg)
 
-### Sources
-- [SVG](./src/svg)
-- [PNG](./src/png)
-- [JPG](./src/jpg)
+O logotipo do Training Center é uma assinatura universal que usamos em todas os nossos projetos e nossas comunicações. É importante que ele não seja editado, alterado, distorcido ou recolorido. 
 
-## Cores
+![Logo Training Center](./logo-training-center-aplicacao.jpg)
 
-### Hex
-- `#D33837`
-- `#ED684E`
-- `#F5A36A`
-- `#0C1624`
+### Downloads
+- [SVG](./assets/svg)
+- [PNG](./assets/png)
+- [JPG](./assets/jpg)
 
-### RGB
-- `211, 56, 55`
-- `237, 104, 78`
-- `245, 163, 106`
-- `12, 22, 36`
+# Cores
 
-## Escrita
+## Paleta principal
 
-- ✅ Training Center
-- ❌ TrainingCenter
+| Primary | Light Blue | Dark Blue | Dark | Light | Green | Orange | Red | 
+| ------- | ---------- | --------- | ---------------- | ----- | ----- | ------ | --- |
+| ![#267dbd](https://placehold.it/90x50/267dbd/000000?text=+) | ![#1daed7](https://placehold.it/90x50/1daed7/000000?text=+) | ![#223266](https://placehold.it/90x50/223266/000000?text=+) | ![#22232e](https://placehold.it/90x50/22232e/000000?text=+) | ![#f6f5f0](https://placehold.it/90x50/f6f5f0/000000?text=+) | ![#49b478](https://placehold.it/90x50/49b478/000000?text=+) | ![#fcaf38](https://placehold.it/90x50/fcaf38/000000?text=+) | ![#ec5252](https://placehold.it/90x50/ec5252/000000?text=+) | 
+| `#267dbd` | `#1daed7` | `#223266` | `#22232e` | `#f6f5f0` | `#49b478` | `#fcaf38` | `#ec5252` | 
