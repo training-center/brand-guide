@@ -4,7 +4,7 @@
 
 # Guia de uso da marca Training Center
 
-Neste guia encontramos as cores da nossa marca e guia de aplicação do logo e templates para YouTube, banners de divulgação de meetups e outros.
+Neste guia encontramos as cores da nossa marca e guia de aplicação do logo, assim como templates para YouTube, banners de divulgação de meetups e outros.
 
 ## Logo
 
