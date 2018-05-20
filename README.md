@@ -4,6 +4,8 @@
 
 # Guia de uso da marca Training Center
 
+Neste guia encontramos as cores da nossa marca e guia de aplicação do logo e templates para YouTube, banners de divulgação de meetups e outros.
+
 ## Logo
 
 O logotipo do Training Center é uma assinatura universal que usamos em todas os nossos projetos e nossas comunicações. É importante que ele não seja editado, alterado, distorcido ou recolorido. 
