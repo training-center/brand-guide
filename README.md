@@ -6,6 +6,13 @@
 
 Neste guia encontramos as cores da nossa marca e guia de aplicação do logo, assim como templates para YouTube, banners de divulgação de meetups e outros.
 
+## Sumário
+
+- [Cores](#cores)
+- [Logo](#logo)
+- [Templates](#templates)
+  - [YouTube](#youtube)
+
 # Cores
 
 Ao criar algum material de divulgação de **nossas iniciativas** (meetups, conteúdo, etc.), atente-se a seguir as cores definidas por nossos designers.
