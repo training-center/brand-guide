@@ -45,7 +45,7 @@ Nós utilizamos software livre para a criação de nosso material, mas você pod
 
 Para criar um thumbnail para um vídeo que irá subir em nosso canal, utilize o template que pode ser baixado [neste link](./templates/) com o nome **youtube-thumbnail-template.psd**.
 
-A fonte utilizada é a **DejaVu Sans Bold**, uma fonte de licença livre que pode ser baixada [neste link](https://dejavu-fonts.github.io/) em uppercase (toda em maiúsculo). Se você utilizar o Gimp, ele já vem pré configurado com esta fonte.
+A fonte utilizada é a **DejaVu Sans Bold**, uma fonte de licença livre que pode ser baixada [neste link](https://dejavu-fonts.github.io/) em uppercase (toda em maiúsculo) com a cor branca. Se você utilizar o Gimp, ele já vem pré configurado com esta fonte.
 
 Exemplo de utilização para live:
 
