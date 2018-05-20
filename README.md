@@ -8,6 +8,10 @@ Neste guia encontramos as cores da nossa marca e guia de aplicação do logo, as
 
 # Cores
 
+Ao criar algum material de divulgação de **nossas iniciativas** (meetups, conteúdo, etc.), atente-se a seguir as cores definidas por nossos designers.
+
+Caso seja somente a utilização do nosso logo em um material de divulgação de sua própria iniciativa, basta seguir o [guia para a aplicação do logo](#logo).
+
 ## Paleta principal
 
 | Primary | Light Blue | Dark Blue | Dark | Light | Green | Orange | Red | 
