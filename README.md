@@ -2,9 +2,7 @@
   <img src="./assets/jpg/logo-training-center-blue-256.jpg" alt="Training Center">
 </p>
 
-# Training Center Brand Guide
-
-> Use nosso logo do jeito certo.
+# Guia de uso da marca Training Center
 
 ## Logo
 
